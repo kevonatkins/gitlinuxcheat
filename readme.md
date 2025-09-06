@@ -39,4 +39,8 @@ Example: cat readme.md
 ### 9) grep
 Search text in files.
 Example: grep -n "main" readme.md
+ 
+### 10) git status
+Show changed files and current branch.
+Example: git status
 
