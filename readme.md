@@ -32,3 +32,7 @@ Examples: mv a.txt b.txt   mv a.txt folder/
 Copy files or folders.
 Examples: cp a.txt b.txt   cp -r src/ dst/
 
+### 8) cat
+Show file contents.
+Example: cat readme.md
+
