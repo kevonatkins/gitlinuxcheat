@@ -7,3 +7,8 @@ One command per branch, merged into `main`.
 ### 1) ls
 List files and directories.
 Example: ls -l
+
+### 2) pwd
+Print the current directory path.
+Example: pwd
+
