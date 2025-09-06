@@ -16,4 +16,7 @@ Example: pwd
 Change directory.
 Examples: cd ..   cd ~/gitlinuxcheat
 
+### 4) mkdir
+Create a directory.
+Example: mkdir notes
 
