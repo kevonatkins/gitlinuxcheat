@@ -12,3 +12,8 @@ Example: ls -l
 Print the current directory path.
 Example: pwd
 
+### 3) cd
+Change directory.
+Examples: cd ..   cd ~/gitlinuxcheat
+
+
