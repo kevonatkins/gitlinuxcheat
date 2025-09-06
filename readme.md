@@ -24,3 +24,8 @@ Example: mkdir notes
 Remove files or folders.
 Examples: rm file.txt   rm -r old-dir
 
+### 6) mv
+Move or rename files.
+Examples: mv a.txt b.txt   mv a.txt folder/
+
+
