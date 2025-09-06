@@ -36,3 +36,7 @@ Examples: cp a.txt b.txt   cp -r src/ dst/
 Show file contents.
 Example: cat readme.md
 
+### 9) grep
+Search text in files.
+Example: grep -n "main" readme.md
+
