@@ -28,4 +28,7 @@ Examples: rm file.txt   rm -r old-dir
 Move or rename files.
 Examples: mv a.txt b.txt   mv a.txt folder/
 
+### 7) cp
+Copy files or folders.
+Examples: cp a.txt b.txt   cp -r src/ dst/
 
