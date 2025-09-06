@@ -22,5 +22,5 @@ Example: mkdir notes
 
 ### 5) rm
 Remove files or folders.
-Examples: rm file.txt   rm -r old_dir
+Examples: rm file.txt   rm -r old-dir
 
