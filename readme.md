@@ -48,7 +48,11 @@ Example: git status
 Stage changes for commit.
 Examples: git add readme.md   git add .
 
-### 12) git commit
+### 12) git log
+View commit history.
+Examples: git log --oneline   git log --graph --oneline --decorate
+
+### 13) git commit
 Save staged changes with a message.
 Example: git commit -m "Update notes"
 
