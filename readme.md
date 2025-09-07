@@ -44,3 +44,7 @@ Example: grep -n "main" readme.md
 Show changed files and current branch.
 Example: git status
 
+### 11) git add
+Stage changes for commit.
+Examples: git add readme.md   git add .
+
