@@ -56,3 +56,7 @@ Examples: git log --oneline   git log --graph --oneline --decorate
 Save staged changes with a message.
 Example: git commit -m "Update notes"
 
+### 14) git branch
+List, create, or delete branches.
+Examples: git branch   git branch -d feature
+
