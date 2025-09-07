@@ -60,3 +60,7 @@ Example: git commit -m "Update notes"
 List, create, or delete branches.
 Examples: git branch   git branch -d feature
 
+### 15) git merge
+Combine another branch into the current branch.
+Example: on main run: git merge feature
+
