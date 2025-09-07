@@ -48,3 +48,7 @@ Example: git status
 Stage changes for commit.
 Examples: git add readme.md   git add .
 
+### 12) git commit
+Save staged changes with a message.
+Example: git commit -m "Update notes"
+
